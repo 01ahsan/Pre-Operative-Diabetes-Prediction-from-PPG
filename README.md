@@ -24,7 +24,7 @@ This repository contains code to predict preoperative diabetes from Photoplethys
 
 ## 📁 Repository Structure
 
-├── data collection/
+├── data collection/n
 │ └── data_collection_from_Vitaldb.ipynb
 ├── data preprocessing/
 │ ├── data_filtering.ipynb
